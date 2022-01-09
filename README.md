@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikeehxz666
+- 👋 Hi, I’m @mikeehxz666
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++/Java/Python
 - 💞️ I’m looking to collaborate with people

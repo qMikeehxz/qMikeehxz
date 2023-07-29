@@ -4,7 +4,7 @@
 
 <div align="center">
   * 🌍  I'm based in Portugal <br/>
-  * 🖥️  See my portfolio at " " <br/>
+  * 🖥️  See my portfolio at "in development" <br/>
 </div>
 
 <p align="center">

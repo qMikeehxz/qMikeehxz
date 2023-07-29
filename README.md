@@ -8,16 +8,16 @@
 </div>
 
 <p align="center">
-  <a href="https://www.twitter.com/intent/follow?screen_name=CallumDEV_" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/CallumDEV_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+  <a href="https://www.twitter.com/intent/follow?screen_name=Mikeehxz" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/Mikeehxz?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
   </a>
  
- <a href="https://www.github.com/callumok2004" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/callumok2004?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+ <a href="https://www.github.com/Mikeehxzy" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Mikeehxzy?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
   </a>
  
-  <a href="https://www.twitch.tv/callumok2004" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitch/status/callumok2004?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" />
+  <a href="https://www.twitch.tv/Mikeehxz" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitch/status/Mikeehxz?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" />
   </a>
 </p>
 

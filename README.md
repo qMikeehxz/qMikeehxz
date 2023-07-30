@@ -37,6 +37,9 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" />
   </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
   </a>

@@ -56,25 +56,19 @@
 </h2>
 
 <p align="center">
-  <a href="https://discord.gg/bSjTV3Q4XA" target="_blank" rel="noreferrer">
+  <a href="https://discord.gg/M9q74VPJsu" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>
-  <a href="https://www.codesandbox.com/u/callumokane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.github.com/callumok2004" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/Mikeehxz" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="http://www.instagram.com/callum.o.kane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/callum-okane-642046234/" target="_blank" rel="noreferrer">
+  <a href="https://pt.linkedin.com/in/miguel-costa-844921225" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitter.com/callumdev_" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/Mikeehxz" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitch.tv/callumok2004" target="_blank" rel="noreferrer">
+  <a href="https://www.twitch.tv/Mikeehxz" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
   </a>
 </p>

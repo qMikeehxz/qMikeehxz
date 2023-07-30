@@ -49,7 +49,7 @@
   Support
 </h2>
 
-<div align="center"><a href="https://www.buymeacoffee.com/callumokane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
+<div align="center"><a href="buymeacoffee.com/mikeehxz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
 
 <h2 align="center">
   Socials

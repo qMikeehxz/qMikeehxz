@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Mikeehxzy/Mikeehxzy/blob/main/changename.svg" alt="Hi, I'm Mikeehxz" />
+  <img src="https://github.com/Mikeehxzy/Mikeehxzy/blob/main/changename.svg" alt="Hi there, I'm Mikeehxz" />
 </h1>
 
 <div align="center">

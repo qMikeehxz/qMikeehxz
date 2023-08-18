@@ -43,6 +43,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="36" height="36" alt="TailwindCSS" />
+  </a>
 </p>
 
 <h2 align="center">

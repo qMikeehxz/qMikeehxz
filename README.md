@@ -48,15 +48,7 @@
   </a>
 </p>
 
-<h2 align="center">
-  Support
-</h2>
-
 <div align="center"><a href="https://buymeacoffee.com/mikeehxz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
-
-<h2 align="center">
-  Socials
-</h2>
 
 <p align="center">
   <a href="https://discord.gg/M9q74VPJsu" target="_blank" rel="noreferrer">

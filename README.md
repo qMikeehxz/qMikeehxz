@@ -8,44 +8,20 @@
 </div>
 
 <p align="center">
-  <a href="https://www.twitter.com/intent/follow?screen_name=qMikeehxz" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/qMikeehxz?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
-  </a>
- 
- <a href="https://www.github.com/Mikeehxzy" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/Mikeehxzy?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
-  </a>
- 
-  <a href="https://www.twitch.tv/Mikeehxz" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitch/status/Mikeehxz?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
 </p>
 
 <div align="center"><a href="https://buymeacoffee.com/mikeehxz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
@@ -75,4 +51,3 @@
 
 <a href="https://github.com/Mikeehxzy" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeehxzy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![snake gif](https://github.com/Mikeehxzy/Mikeehxzy/blob/output/github-contribution-grid-snake.gif)

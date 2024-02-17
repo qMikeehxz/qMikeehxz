@@ -60,7 +60,7 @@
   <a href="https://pt.linkedin.com/in/miguel-costa-844921225" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitter.com/Mikeehxz" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/qMikeehxz" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
   <a href="https://www.twitch.tv/Mikeehxz" target="_blank" rel="noreferrer">

@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.twitter.com/intent/follow?screen_name=qMikeehxz" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/Mikeehxz?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+    <img src="https://img.shields.io/twitter/follow/qMikeehxz?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
   </a>
  
  <a href="https://www.github.com/Mikeehxzy" target="_blank" rel="noreferrer">

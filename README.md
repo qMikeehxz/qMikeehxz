@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  * 🌏  I'm based in Portugal <br/>
-  * 🖥️  See my portfolio at "in development" <br/>
+   🌏  I'm based in Portugal <br/>
+   🖥️  See my portfolio at "in development" <br/>
 </div>
 
 <p align="center">

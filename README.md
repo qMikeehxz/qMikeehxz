@@ -9,7 +9,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/twitter/follow/qMikeehxz?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917" />
-    <img src="https://img.shields.io/github/followers/Mikeehxzy?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+    <img src="https://img.shields.io/github/followers/qMikeehxz?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
     <img src="https://img.shields.io/twitch/status/Mikeehxz?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" />
 </p>
 

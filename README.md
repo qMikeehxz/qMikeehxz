@@ -4,7 +4,7 @@
 
 <div align="center">
    🌏  I'm based in Portugal <br/>
-   🖥️  See my portfolio at <a href="https://qmikeehxz.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>qmikeehxz.vercel.app</strong></a> <br/>
+   🖥️  See my portfolio at <a href="https://qmikeehxz.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><strong>qmikeehxz.vercel.app</strong></a> <br/>
 </div>
 
 <p align="center">
